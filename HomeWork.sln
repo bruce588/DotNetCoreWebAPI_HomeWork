@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNetCoreWebAPIEFHomeWork", "ASPNetCoreWebAPIEFHomeWork\ASPNetCoreWebAPIEFHomeWork.csproj", "{95A63942-B5C1-481B-890E-D3B12F19005D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95A63942-B5C1-481B-890E-D3B12F19005D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A63942-B5C1-481B-890E-D3B12F19005D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A63942-B5C1-481B-890E-D3B12F19005D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A63942-B5C1-481B-890E-D3B12F19005D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {541AB5E9-CD9E-4447-91BD-51B36BCBDC66}
+	EndGlobalSection
+EndGlobal
